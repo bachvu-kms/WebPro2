@@ -32,4 +32,4 @@ for(def productName : productList){
 }
 CustomKeywords.'sample.Checkout.CheckoutShopWithGlobalVariable'()
 WebUI.closeBrowser()
-zxczxc
+123123
